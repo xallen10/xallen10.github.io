@@ -1,0 +1,18 @@
+/* Style for body specifies a background color */
+body {
+	background-color: #FCFC03
+}
+
+/* Style for the header specifies top margin, background color, rounded corners, and center align content */
+h1,h2,h3,h4,p {
+	font-family: Verdana, Arial, Gill Sans ,sans-serif;
+	margin-top: 0.2em;
+	text-align: center;
+}
+
+
+
+
+
+	
+
